@@ -7,7 +7,7 @@ It is a costly affair when having to check an ID number. And so, before attempti
 ## 🗺️ How to
 - Download the apk to your Android mobile device. (You may be prompted with a security warning, ignore it.)
 - Install the app by selecting it from your Downloads folder. You will be prompted to scan the app. Scan it! and then select install.
-- Launch app, and enter the ID number. The submit button will highlight once all the numbers have been entered.
+- Launch the app, and enter the ID number. The submit button will highlight once all the numbers have been entered.
 - The result will be displayed beneath the submit button.
 
 ![Screenshot_20240707-095216](https://github.com/metalninja1001/luhnvalidator/assets/101802030/b61ea85f-4137-46eb-bb6c-bfd99aceda94)
