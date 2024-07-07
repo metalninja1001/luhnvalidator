@@ -1,5 +1,5 @@
 # 🛂 luhnvalidator
-This is a Android app to check the validity of a South African ID number
+This is an Android app to check the validity of a South African ID number
 
 ## 🗺️ How to
 - Download the apk to your Android mobile device.
